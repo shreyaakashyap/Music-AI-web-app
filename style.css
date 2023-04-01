@@ -1,0 +1,46 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note {
+    font-size: 15px;
+    color: black;
+}
+
+body {
+    background-size: cover;
+}
+
+.music1-div {
+    float: left;
+}
+
+.div-music1-img {
+    border-radius: 20px;
+    width: 200px;
+}
+
+#music1-tag {
+    font-size: 23px;
+    margin: 15px; 
+}
+.music2-div {
+    float: right;
+}
+.div-music2-img {
+    border-radius: 20px;
+    width: 200px;
+}
+
+#music2-tag {
+    font-size: 23px;
+    margin: 15px;
+}
+
+.play_button{
+    font-size: 25px;
+    width: 135px;
+    
+}
